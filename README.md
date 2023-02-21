@@ -1,4 +1,5 @@
 ## Notes!
+- npm install firebase@9
 
 #### Create .env file in root repository 
 ###### find the follwing info on firebase site under project settings
@@ -9,3 +10,4 @@ _Note: It is very important that every environment variable in your application 
 - REACT_APP_FIREBASE_STORAGE_BUCKET 
 - REACT_APP_FIREBASE_MESSAGING_SENDER_ID
 - REACT_APP_FIREBASE_APP_ID
+
